@@ -86,7 +86,7 @@ The pipeline logs important information and errors to `logs/etl_pipeline.log`.
 1. Configure the logging path and database URI in `etl_pipeline.py`.
 2. Run the ETL process:
 
-   ```bash
-   python etl_pipeline.py
+```bash
+python etl_pipeline.py
 
 
