@@ -6,7 +6,6 @@ This project is an ETL (Extract, Transform, Load) pipeline designed to load cust
 
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
-- [Getting Started](#getting-started)
 - [Pipeline Components](#pipeline-components)
   - [Extract](#extract)
   - [Load to Staging](#load-to-staging)
