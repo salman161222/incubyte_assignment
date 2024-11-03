@@ -1,0 +1,16 @@
+2024-11-03 15:48:15,158 - INFO - Extracting data from C:\Users\acer\OneDrive\Desktop\Incubyte\data_pipeline\source\dummy_data.txt
+2024-11-03 15:48:15,165 - INFO - Number of records extracted: 100
+2024-11-03 15:48:15,166 - INFO - Performing incremental load for curate.customer_info
+2024-11-03 15:48:15,325 - INFO - Incremental load completed successfully.
+2024-11-03 16:02:14,475 - INFO - Extracting data from C:\Users\acer\OneDrive\Desktop\Incubyte\data_pipeline\source\dummy_data.txt
+2024-11-03 16:02:14,492 - INFO - Number of records extracted: 100
+2024-11-03 16:02:14,493 - INFO - Performing incremental load for curate.customer_info
+2024-11-03 16:02:14,726 - INFO - Incremental load completed successfully.
+2024-11-03 16:03:16,211 - INFO - Extracting data from C:\Users\acer\OneDrive\Desktop\Incubyte\data_pipeline\source\dummy_data.txt
+2024-11-03 16:03:16,218 - INFO - Number of records extracted: 100
+2024-11-03 16:03:16,218 - INFO - Performing incremental load for curate.customer_info
+2024-11-03 16:03:16,480 - INFO - Incremental load completed successfully.
+2024-11-03 16:03:39,354 - INFO - Extracting data from C:\Users\acer\OneDrive\Desktop\Incubyte\data_pipeline\source\dummy_data.txt
+2024-11-03 16:03:39,361 - INFO - Number of records extracted: 100
+2024-11-03 16:03:39,362 - INFO - Performing incremental load for curate.customer_info
+2024-11-03 16:03:39,572 - INFO - Incremental load completed successfully.
